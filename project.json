@@ -1,0 +1,8 @@
+{
+  "name": "KKO",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::330946167708:role/KKO_lambda_function",
+  "environment": {}
+}
