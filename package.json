@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chashwan88/kko/issues"
   },
-  "homepage": "https://github.com/chashwan88/kko#readme"
+  "homepage": "https://github.com/chashwan88/kko#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
 }
